@@ -1,4 +1,4 @@
-## comic organisation
+## COMIC ORGANISATION
  
 
 Final project for the Building AI course
